@@ -62,11 +62,17 @@ Welcome to my **Data Structures & Algorithms** repository! This repository conta
 
 DSA/
  Stack
+ 
  Queue
+ 
  Linked_List
+ 
  Recurrence
+ 
  searching
+ 
  Sorting
+ 
  README.md
 
 
